@@ -18,7 +18,7 @@ public class LoginServlet extends HttpServlet{
         writer.println("<title>My First WebApp</title>");
         writer.println("</head>");
         writer.println("<body>");
-        writer.println("<h1>My First WebApp</h1");
+        writer.println("<h1>Have a nice day</h1");
         writer.println("</body>");
         writer.println("</html>");
     }
